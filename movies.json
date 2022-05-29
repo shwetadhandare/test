@@ -1,0 +1,101 @@
+[{
+        "name": "Comedy Legends",
+        "type": "Documentary",
+        "language": "English",
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/171/428737.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/171/428737.jpg"
+        },
+        "summary": "<p>Barry Cryer pays tribute to the heroes of comedy who he has worked with over his many years in the business. Each episode celebrates one legend and includes highlights from their comedy careers as Barry recalls some of his funniest moments working with each of them.</p>"
+    },
+    {
+        "name": "Comedy Shuffle",
+        "type": "Variety",
+        "language": "English",
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/79/197899.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/79/197899.jpg"
+        },
+        "summary": "<p>Talent showcase highlighting a whole generation of comic performers, writers and animators.</p>"
+    },
+    {
+        "name": "Comedy Баттл",
+        "type": "Variety",
+        "language": "Russian",
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/237/594619.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/237/594619.jpg"
+        },
+        "summary": null
+    },
+    {
+        "name": "Black Comedy",
+        "type": "Scripted",
+        "language": "English",
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/391/978174.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/391/978174.jpg"
+        },
+        "summary": "<p>This ground-breaking series combines a mix of observational and physical sketches, historical sketches and parodies of TV, film and commercials. Black Comedy is a fast paced and entertaining look at Australian culture through the comedic prism of our first people and no area is off limits.</p>"
+    },
+    {
+        "name": "Inside Comedy",
+        "type": "Talk Show",
+        "language": "English",
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/17/43207.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/17/43207.jpg"
+        },
+        "summary": "<p>This comedy documentary series from veteran funny-man David Steinberg (\"Curb Your Enthusiasm\") and Steve Carell reveals the inspirations, influences and idols of some of the greatest comics of our time. Big stars like Chris Rock, Ellen Degeneres, and Jerry Seinfeld and living legends like Mel Brooks, Don Rickles, and Jonathan Winters share never-before-heard anecdotes, intimate memories, and career-defining moments from the past five decades of comedy. Steinberg also elicits personal struggles and shares rare footage of his famous guests.</p>"
+    },
+    {
+        "name": "Comedy Playhouse",
+        "type": "Scripted",
+        "language": "English",
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/35/88167.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/35/88167.jpg"
+        },
+        "summary": "<p><b>Comedy Playhouse</b> is a long-running British anthology series of one-off unrelated sitcoms that aired for 120 episodes from 1961 to 1975. Many episodes later graduated to their own series, including Steptoe and Son, Meet the Wife, Till Death Us Do Part, All Gas and Gaiters, Up Pompeii!, Not in Front of the Children, Me Mammy, That's Your Funeral, The Liver Birds, Are You Being Served? and Last of the Summer Wine, which is the world's longest running sitcom, having run from January 1973 to August 2010.</p>"
+    },
+    {
+        "name": "Comedy Knockout",
+        "type": "Reality",
+        "language": "English",
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/270/676164.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/270/676164.jpg"
+        },
+        "summary": "<p>On each episode of <b>Comedy Knockout</b>, host Damien Lemon sends three comics into a battle of high stakes comedic gameplay. With points given based on audience applause, the comedians throw roast-like, rapid-fire jabs at their opponents. Each show ends with one comedian crowned champion, one eliminated and one forced to face the crowd and apologize for going down in shameful defeat.</p>"
+    },
+    {
+        "name": "Comedy Shorts",
+        "type": "Variety",
+        "language": "English",
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/35/89096.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/35/89096.jpg"
+        },
+        "summary": "<p>A series of comedy shorts, with each episode taken over by a high profile comedian.</p>"
+    },
+    {
+        "name": "Talking Comedy",
+        "type": "Documentary",
+        "language": "English",
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/85/212871.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/85/212871.jpg"
+        },
+        "summary": "<p>A look back through the BBC archive at the appearances of popular comedians on a selection of well-loved talk shows, showcasing the magic that happens when conversation and classic comedy collide.</p>"
+    },
+    {
+        "name": "Comedy Connections",
+        "type": "Documentary",
+        "language": "English",
+        "image": {
+            "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/63/158497.jpg",
+            "original": "https://static.tvmaze.com/uploads/images/original_untouched/63/158497.jpg"
+        },
+        "summary": "<p><b>Comedy Connections</b> looks at the stories behind the production of some of Britain's comedy television programmes, showing how they tie in with the production of other comedy shows. The shows feature interviews with some of the cast and crew of the subject programme, as well as footage from the series. <i>Comedy Connections</i> mostly documents BBC comedies, although two programmes have been from ITV and two from Channel 4.</p>"
+    }
+]
